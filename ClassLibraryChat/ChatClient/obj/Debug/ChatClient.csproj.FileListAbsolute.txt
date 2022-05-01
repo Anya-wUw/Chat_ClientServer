@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Chat_Lab10\ClassLibraryChat\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\Admin\Desktop\Chat_Lab10\ClassLibraryChat\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\Admin\Desktop\Chat_Lab10\ClassLibraryChat\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Admin\Desktop\Chat_Lab10\ClassLibraryChat\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Chat_Lab10\ClassLibraryChat\ChatClient\obj\Debug\ChatClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Chat_Lab10\ClassLibraryChat\ChatClient\obj\Debug\ChatClient.Form1.resources
+C:\Users\Admin\Desktop\Chat_Lab10\ClassLibraryChat\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\Admin\Desktop\Chat_Lab10\ClassLibraryChat\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Chat_Lab10\ClassLibraryChat\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Chat_Lab10\ClassLibraryChat\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\Admin\Desktop\Chat_Lab10\ClassLibraryChat\ChatClient\obj\Debug\ChatClient.pdb

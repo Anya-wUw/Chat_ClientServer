@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Chat_Lab10\ClassLibraryChat\ChatHost\bin\Debug\ChatHost.exe.config
+C:\Users\Admin\Desktop\Chat_Lab10\ClassLibraryChat\ChatHost\bin\Debug\ChatHost.exe
+C:\Users\Admin\Desktop\Chat_Lab10\ClassLibraryChat\ChatHost\bin\Debug\ChatHost.pdb
+C:\Users\Admin\Desktop\Chat_Lab10\ClassLibraryChat\ChatHost\bin\Debug\ClassLibraryChat.dll
+C:\Users\Admin\Desktop\Chat_Lab10\ClassLibraryChat\ChatHost\bin\Debug\ClassLibraryChat.pdb
+C:\Users\Admin\Desktop\Chat_Lab10\ClassLibraryChat\ChatHost\bin\Debug\ClassLibraryChat.dll.config
+C:\Users\Admin\Desktop\Chat_Lab10\ClassLibraryChat\ChatHost\obj\Debug\ChatHost.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Chat_Lab10\ClassLibraryChat\ChatHost\obj\Debug\ChatHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Chat_Lab10\ClassLibraryChat\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Chat_Lab10\ClassLibraryChat\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+C:\Users\Admin\Desktop\Chat_Lab10\ClassLibraryChat\ChatHost\obj\Debug\ChatHost.exe
+C:\Users\Admin\Desktop\Chat_Lab10\ClassLibraryChat\ChatHost\obj\Debug\ChatHost.pdb
